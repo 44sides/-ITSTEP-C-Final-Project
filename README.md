@@ -27,10 +27,10 @@ should stay aloof.
 
 The program should be designed in an ergonomic
 interface, and also have accompanying documentation.
-There must be a rendering of functions and procedures in
+There must be a transfer of functions and procedures in
 separate files (header files).
 
-The database must be in the form of a text or binary file. The files will change depending on the addition or removal of objects.
+The database must be in the form of a text or binary file. The files will be changed depending on the addition or removal of objects.
 
 ## System users
 - Profile "GUEST"
