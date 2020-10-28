@@ -1,4 +1,5 @@
 # -ITSTEP-Final-Project
+## Project task
 The task was to create a search system,
 providing an opportunity for visitors to search for publications in the library and view information about them. 
 
@@ -30,3 +31,8 @@ There must be a rendering of functions and procedures in
 separate files (header files).
 
 The database must be in the form of a text or binary file. The files will change depending on the addition or removal of objects.
+
+## System users
+- Profile "GUEST"
+- Profile "REGISTERED"
+- Profile "ADMINISTRATOR"
